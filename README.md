@@ -1,2 +1,20 @@
-# inu-c-programming
-C programming study notes and practice from INU
+# C Programming
+
+C 프로그래밍의 기본 문법부터 문제 해결을 위한 실습까지 정리한 학습 저장소입니다.
+
+## Topics
+
+- 기본 자료형과 표준 입출력
+- 조건문과 반복문
+- 배열과 문자열
+- 함수와 반환값
+- 포인터 기초
+- 구조체와 파일 입출력
+
+## 2022 Final Practice
+
+2022년 기말 실습에서 복습한 내용을 개념 단위로 다시 정리합니다. 시험 문제와 정답은 공개하지 않습니다.
+
+## Archive Policy
+
+개인정보, 시험 답안, 강의 자료 원문은 포함하지 않습니다. 공개 가능한 개인 학습 내용만 정리합니다.

@@ -1,20 +1,20 @@
+<p align="center"><img src="./course-panel.svg" width="100%" alt="C Programming course panel"/></p>
+
 # C Programming
 
-C 프로그래밍의 기본 문법부터 문제 해결을 위한 실습까지 정리한 학습 저장소입니다.
+2022년 C언어 기말 실습에서 작성한 코드와 풀이 과정을 보존한 학습 저장소입니다.
 
-## Topics
+## Archive
 
-- 기본 자료형과 표준 입출력
-- 조건문과 반복문
-- 배열과 문자열
-- 함수와 반환값
-- 포인터 기초
-- 구조체와 파일 입출력
+- [전체 실습 코드와 설명 보기](./FULL_NOTES.md)
+- 문제 번호 **1091–1130** 범위의 문자열, 포인터, 동적 할당, 구조체, 배열 실습
+- 작성 당시의 접근 방식과 코드 설명을 함께 보존
 
-## 2022 Final Practice
+## Technical Scope
 
-2022년 기말 실습에서 복습한 내용을 개념 단위로 다시 정리합니다. 시험 문제와 정답은 공개하지 않습니다.
+`C` · `String Processing` · `Pointers` · `Dynamic Memory` · `Structures` · `2D Arrays` · `Bit Operations`
 
-## Archive Policy
+## Note
 
-개인정보, 시험 답안, 강의 자료 원문은 포함하지 않습니다. 공개 가능한 개인 학습 내용만 정리합니다.
+이 저장소는 학습 당시의 사고 과정까지 남기는 아카이브입니다. 개인정보만 제거했으며, 코드와 풀이 내용은 임의로 축약하지 않았습니다.
+
